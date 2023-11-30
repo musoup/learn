@@ -4,7 +4,7 @@ int main()
 {
 	int b=5,c=5,sum;
 	int a[5][5]={{1,2,3,4,5},{1,2,3,4,5},{1,2,3,4,5},{1,2,3,4,5},{1,2,3,4,5}};
-	printf("所有元素之和:%d",sumtwo(a,b,c));
+	printf("脣霉脫脨脭陋脣脴脰庐潞脥:%d",sumtwo(a,b,c));
 	return 0;
 }
 
